@@ -18,7 +18,7 @@ public class Main {
         Skeleton2.setHealth(100);
         Skeleton2.setDamage(80);
         Skeleton2.setWeapon("CrossBow");
-        Skeleton1.setCountOfArrows(15);
+        Skeleton2.setCountOfArrows(15);
         //вывод характеристик
         boss.printInfo();
         Skeleton1.printInfo();
