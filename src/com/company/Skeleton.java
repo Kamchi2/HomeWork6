@@ -15,4 +15,8 @@ public class Skeleton extends Boss {
     public int getCountOfArrows() {
         return countOfArrows;
     }
+
+    public void setCountOfArrows(int countOfArrows) {
+        this.countOfArrows = countOfArrows;
+    }
 }
